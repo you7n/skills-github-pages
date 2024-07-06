@@ -2,3 +2,5 @@ theme:minima
 title:益谦YiQian
 author:益谦YiQian
 description:我们以渺小来爱这个巨大的世界
+plugins:
+  - not-pure-poole
