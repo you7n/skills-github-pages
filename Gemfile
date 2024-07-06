@@ -1,1 +1,1 @@
-gem 'not-pure-poole'
+gem 'jekyll-remote-theme'
